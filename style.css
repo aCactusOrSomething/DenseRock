@@ -1,0 +1,22 @@
+#dirt {
+    position: absolute;
+    z-index: 2;
+}
+#gems {
+    position: absolute;
+    z-index: 1;
+}
+#unlocks {
+    z-index: 1;
+    text-align: right;
+}
+#instructions {
+    z-index: 1;
+    text-align: right;
+}
+#credits {
+    text-align: right;
+}
+#denseMeter {
+    width: 800px;
+}

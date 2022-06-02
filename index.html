@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <title>Dense Rock</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" type="module"></script>
+</head>
+<body>
+    <audio id="sound0"><source src="assets/sfx/148074__sandyrb__lightbulb-smash-002.wav"></audio>
+    <audio id="sound1"><source src="assets/sfx/321143__rodincoil__concrete-and-glass-breaking-in-dumpster.wav"></audio>
+    <audio id="sound2"><source src="assets/sfx/369711__mrguff__hit-impact.wav"></audio>
+    <audio id="sound3"><source src="assets/sfx/437602__debsound__brick-debris-fall-06.wav"></audio>
+    <audio id="sound4"><source src="assets/sfx/447922__breviceps__thud-falling-on-wooden-floor-snapping-breaking-neck.wav"></audio>
+    <audio id="sound5"><source src="assets/sfx/97792__cgeffex__metal-impact.wav"></audio>
+
+    <h1>DENSE ROCK</h1>
+    <div><meter id="denseMeter"></meter></div>
+    <div id="digUI">
+        <canvas id="gems" width="800" height="600"></canvas>
+        <canvas id="dirt" width="800" height="600"></canvas>
+    </div>
+    <div id="instructions">
+        Press <b>R</b> to get a new sheet of rock to dig through!<br>
+        <b>Click</b> on the dirt to dig!<br>
+        Press <b>A</b> to switch to the hammer!<br>
+        Press <b>Z</b> to switch to the drill!<br>
+        Digging reduces the <b>Density</b> of the rock - once it gets too low, the session ends!<br>
+    </div>
+    <div id="unlocks"></div>
+    <div id="credits">
+        by hazel<br>
+        <br>
+        The following sound effects are licensed under the <a href="https://creativecommons.org/licenses/by-nc/4.0/"></a>Attribution 4.0 License:<br>
+        Brick Depris Fall 06.wav (by debsound)<br>
+        Metal Impact.wav (by CGEffex)<br>
+    </div>
+</body>

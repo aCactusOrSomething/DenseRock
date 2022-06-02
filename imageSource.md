@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/File:Fordite_Floating_Pendant.jpg
+https://commons.wikimedia.org/wiki/File:Blue_topaz_damaged_gemstone.jpg
+https://commons.wikimedia.org/wiki/File:Another_white_sculpture_butt.jpg
+https://commons.wikimedia.org/wiki/File:Carpenter_bee.jpg
+https://commons.wikimedia.org/wiki/File:June_odd-eyed-cat_cropped.jpg
+https://commons.wikimedia.org/wiki/File:Log_tied_to_the_neck_of_the_cow.jpg
+https://commons.wikimedia.org/wiki/File:Beryl-235618.jpg
+https://commons.wikimedia.org/wiki/File:Peridot_crystal_(51742300233).jpg
+https://commons.wikimedia.org/wiki/File:Tumbled_carnelian.jpg
+https://commons.wikimedia.org/wiki/File:Cypraeidae_-_Erronea_onyx.JPG
+https://commons.wikimedia.org/wiki/File:Agat_Ta%C5%9F%C4%B1.jpg
+https://commons.wikimedia.org/wiki/File:Sapphire_-_Voda_Shaqen.jpg
+https://commons.wikimedia.org/wiki/File:Bloodstone_3_(49036281801).jpg
+https://commons.wikimedia.org/wiki/File:AmethystVA.jpg
+https://commons.wikimedia.org/wiki/File:.80ctsBluegarnet.jpg  
